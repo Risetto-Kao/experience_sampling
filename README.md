@@ -1,16 +1,12 @@
-# experience_sampling
+# Experience Sampling
+## Claims
+This app is just for research purpose, so that it's not available for someone who doesn't participant in the research.
+But I can show it on my cellphone in interview.
 
-A new Flutter project.
+This repository will be complete before 2022/12/02.
+Because I need to remove some services to protect the copyright (e.g. the content of questionnaire, UI design) from the psychological team and some core technology of our lab (e.g. mobile sensing of android-specific code).
 
-## Getting Started
+## Introduction
+The purpose of this application is to collect data from users' mental state through psychological questionnaires without internet.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
