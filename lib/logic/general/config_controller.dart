@@ -1,13 +1,11 @@
 import 'dart:convert';
 
 import 'package:crypto/crypto.dart';
-import 'package:enum_to_string/enum_to_string.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:experience_sampling/data/models/default_config.dart';
 import 'package:experience_sampling/data/models/once_config.dart';
-import 'package:experience_sampling/data/models/week_time.dart';
 import 'package:experience_sampling/data/storages/local_storage_service.dart';
 import 'package:experience_sampling/logic/general/new_notification_controller.dart';
 import 'package:experience_sampling/presentation/constants/default_constants.dart';

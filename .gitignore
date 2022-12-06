@@ -49,3 +49,6 @@ app.*.map.json
 /assets/design/
 /assets/questionnaire/
 /assets/config.json
+/assets
+
+*.env

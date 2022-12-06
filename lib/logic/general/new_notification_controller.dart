@@ -2,13 +2,10 @@ import 'dart:math';
 
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:get/get.dart';
-import 'package:intl/intl.dart';
 import 'package:experience_sampling/data/models/default_config.dart';
-import 'package:experience_sampling/data/models/week_time.dart';
 import 'package:experience_sampling/data/storages/local_storage_service.dart';
 import 'package:experience_sampling/presentation/constants/default_constants.dart';
 import 'package:experience_sampling/presentation/reuse_util/new_notification.dart';
-import 'package:experience_sampling/presentation/reuse_util/util.dart';
 import 'package:experience_sampling/presentation/router/route_config.dart';
 
 class NotificationAPIController extends GetxController {
