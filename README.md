@@ -25,7 +25,7 @@ Users will get the subjectID and password from researcher.
 They need to set their basic information and preference here.
 If you are not a subject in this research, you won't be able to use this app.
 (If you really like to test this app, please send me an email (menghueigao@gmail.com). I'll provide a set of subjectID & password just for testing.)
-![image](https://github.com/Risetto-Kao/experience_sampling/blob/main/present/settings.jpg)
+![image](https://github.com/Risetto-Kao/experience_sampling/blob/main/present/setting.jpg)
 
 ### History
 Users can get their answering history and upload the passed questionnaires in this page. 
@@ -33,9 +33,9 @@ Users can get their answering history and upload the passed questionnaires in th
 
 ### Questionnaire
 There are some types of questions in this questionnaire.
-![image](https://github.com/Risetto-Kao/experience_sampling/blob/main/present/question_type1.jpg)
-![image](https://github.com/Risetto-Kao/experience_sampling/blob/main/present/question_type2.jpg)
-![image](https://github.com/Risetto-Kao/experience_sampling/blob/main/present/question_type3.jpg)
+![image](https://github.com/Risetto-Kao/experience_sampling/blob/main/present/question_type1.png)
+![image](https://github.com/Risetto-Kao/experience_sampling/blob/main/present/question_type2.png)
+![image](https://github.com/Risetto-Kao/experience_sampling/blob/main/present/question_type3.png)
 
 
 ## Questionnaire Format
